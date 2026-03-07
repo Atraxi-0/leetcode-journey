@@ -1,2 +1,2 @@
 # leetcode-journey
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+A curated collection of LeetCode solutions documenting my Data Structures and Algorithms journey.
