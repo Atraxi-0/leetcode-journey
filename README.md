@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Atraxi-0/leetcode-journey/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Atraxi-0/leetcode-journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
