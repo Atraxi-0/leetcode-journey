@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Atraxi-0/leetcode-journey/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Atraxi-0/leetcode-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
