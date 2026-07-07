@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Atraxi-0/leetcode-journey/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Atraxi-0/leetcode-journey/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Atraxi-0/leetcode-journey/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
