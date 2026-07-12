@@ -34,9 +34,26 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Atraxi-0/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atraxi-0/leetcode-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Atraxi-0/leetcode-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Atraxi-0/leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Atraxi-0/leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Atraxi-0/leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Atraxi-0/leetcode-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
